@@ -1,0 +1,2 @@
+F:\Code\okay\Debug\okay.exe
+F:\Code\okay\Debug\okay.pdb

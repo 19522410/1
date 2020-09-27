@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576580013 source:f:\code\hovaten\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

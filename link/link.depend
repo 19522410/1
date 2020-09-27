@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1586402351 source:f:\code\link\main.cpp
+	<iostream>
+
+1586397040 f:\code\link\danhsachlienket.h
+	<iostream>
+

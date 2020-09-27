@@ -1,0 +1,2 @@
+F:\Code\vd111\Debug\vd111.exe
+F:\Code\vd111\Debug\vd111.pdb

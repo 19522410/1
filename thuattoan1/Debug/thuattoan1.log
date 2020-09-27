@@ -1,0 +1,3 @@
+﻿  thuattoan1.cpp
+F:\Code\thuattoan1\thuattoan1.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  thuattoan1.vcxproj -> F:\Code\thuattoan1\Debug\thuattoan1.exe

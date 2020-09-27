@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577517920 source:f:\code\xoakhonagtrang\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

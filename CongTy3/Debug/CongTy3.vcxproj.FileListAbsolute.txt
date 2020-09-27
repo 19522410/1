@@ -1,0 +1,2 @@
+F:\Code\CongTy3\Debug\CongTy3.exe
+F:\Code\CongTy3\Debug\CongTy3.pdb

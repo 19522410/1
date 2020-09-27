@@ -1,0 +1,2 @@
+F:\Code\quicksort_list\Debug\quicksort_list.exe
+F:\Code\quicksort_list\Debug\quicksort_list.pdb

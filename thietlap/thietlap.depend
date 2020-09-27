@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1585218220 source:f:\code\thietlap\main.cpp
+	<iostream>
+
+1585218317 source:f:\code\thietlap\src\cmeo.cpp
+	"CMeo.h"
+
+1585218316 f:\code\thietlap\include\cmeo.h
+

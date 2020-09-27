@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585205954 source:f:\code\bai8\main.cpp
+	<iostream>
+	<cmath>
+

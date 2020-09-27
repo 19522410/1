@@ -1,0 +1,2 @@
+F:\Code\node test\Debug\node test.exe
+F:\Code\node test\Debug\node test.pdb

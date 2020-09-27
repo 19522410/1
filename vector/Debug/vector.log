@@ -1,0 +1,34 @@
+﻿  vector.cpp
+F:\Code\vector\thamso.h(21,17): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Code\vector\vector.cpp(68,23): warning C4018: '<': signed/unsigned mismatch
+F:\Code\vector\vector.cpp(70,27): warning C4018: '<': signed/unsigned mismatch
+F:\Code\vector\vector.cpp(87,5): error C2731: 'main': function cannot be overloaded
+F:\Code\vector\vector.cpp(87): message : see declaration of 'main'
+F:\Code\vector\vector.cpp(98,66): error C2653: 'filesystem': is not a class or namespace name
+F:\Code\vector\vector.cpp(98,42): error C3861: 'directory_iterator': identifier not found
+F:\Code\vector\vector.cpp(99,5): error C2653: 'filesystem': is not a class or namespace name
+F:\Code\vector\vector.cpp(98,60): error C2672: 'begin': no matching overloaded function found
+F:\Code\vector\vector.cpp(99,5): error C2893: Failed to specialize function template 'unknown-type std::begin(_Container &)'
+F:\Microsoft Visual Studio2019\Community\VC\Tools\MSVC\14.25.28610\include\xutility(1911): message : see declaration of 'std::begin'
+F:\Code\vector\vector.cpp(99,5): message : With the following template arguments:
+F:\Code\vector\vector.cpp(99,5): message : '_Container=unknown-type'
+F:\Code\vector\vector.cpp(99,5): error C2784: 'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'unknown-type'
+F:\Microsoft Visual Studio2019\Community\VC\Tools\MSVC\14.25.28610\include\initializer_list(57): message : see declaration of 'std::begin'
+F:\Code\vector\vector.cpp(98,60): error C2672: 'end': no matching overloaded function found
+F:\Code\vector\vector.cpp(99,5): error C2893: Failed to specialize function template 'unknown-type std::end(_Container &)'
+F:\Microsoft Visual Studio2019\Community\VC\Tools\MSVC\14.25.28610\include\xutility(1921): message : see declaration of 'std::end'
+F:\Code\vector\vector.cpp(99,5): message : With the following template arguments:
+F:\Code\vector\vector.cpp(99,5): message : '_Container=unknown-type'
+F:\Code\vector\vector.cpp(99,5): error C2784: 'const _Elem *std::end(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'unknown-type'
+F:\Microsoft Visual Studio2019\Community\VC\Tools\MSVC\14.25.28610\include\initializer_list(63): message : see declaration of 'std::end'
+F:\Code\vector\vector.cpp(99,5): error C3536: '<begin>$L0': cannot be used before it is initialized
+F:\Code\vector\vector.cpp(99,5): error C3536: '<end>$L0': cannot be used before it is initialized
+F:\Code\vector\vector.cpp(98,66): error C2100: illegal indirection
+F:\Code\vector\vector.cpp(120,31): warning C4018: '<': signed/unsigned mismatch
+F:\Code\vector\vector.cpp(126,5): error C3861: 'sort': identifier not found
+F:\Code\vector\vector.cpp(128,23): warning C4018: '<': signed/unsigned mismatch
+F:\Code\vector\vector.cpp(137,10): error C2039: 'time_t': is not a member of 'std'
+F:\Microsoft Visual Studio2019\Community\VC\Tools\MSVC\14.25.28610\include\chrono(24): message : see declaration of 'std'
+F:\Code\vector\vector.cpp(139,53): error C2039: 'ctime': is not a member of 'std'
+F:\Microsoft Visual Studio2019\Community\VC\Tools\MSVC\14.25.28610\include\chrono(24): message : see declaration of 'std'
+F:\Code\vector\vector.cpp(88): fatal error C1075: '{': no matching token found

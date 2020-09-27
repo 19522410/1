@@ -1,0 +1,2 @@
+F:\Code\BaiTapToanTuGan\x64\Debug\BaiTapToanTuGan.exe
+F:\Code\BaiTapToanTuGan\x64\Debug\BaiTapToanTuGan.pdb

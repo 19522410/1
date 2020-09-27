@@ -1,0 +1,3 @@
+﻿  bttoantusohoc.cpp
+C:\Users\ASUS\source\repos\bttoantusohoc\bttoantusohoc.cpp(54,10): error C2676: binary '++': 'CPhanSo' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\ASUS\source\repos\bttoantusohoc\bttoantusohoc.cpp(57,10): error C2676: binary '--': 'CPhanSo' does not define this operator or a conversion to a type acceptable to the predefined operator

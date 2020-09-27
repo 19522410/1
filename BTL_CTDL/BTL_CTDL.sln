@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BTL_CTDL", "BTL_CTDL.vcxproj", "{508269CA-CFDA-4647-B808-6F586A990288}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{508269CA-CFDA-4647-B808-6F586A990288}.Debug|x64.ActiveCfg = Debug|x64
+		{508269CA-CFDA-4647-B808-6F586A990288}.Debug|x64.Build.0 = Debug|x64
+		{508269CA-CFDA-4647-B808-6F586A990288}.Debug|x86.ActiveCfg = Debug|Win32
+		{508269CA-CFDA-4647-B808-6F586A990288}.Debug|x86.Build.0 = Debug|Win32
+		{508269CA-CFDA-4647-B808-6F586A990288}.Release|x64.ActiveCfg = Release|x64
+		{508269CA-CFDA-4647-B808-6F586A990288}.Release|x64.Build.0 = Release|x64
+		{508269CA-CFDA-4647-B808-6F586A990288}.Release|x86.ActiveCfg = Release|Win32
+		{508269CA-CFDA-4647-B808-6F586A990288}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04805FE6-664A-4C47-936A-D507CC97DE45}
+	EndGlobalSection
+EndGlobal
