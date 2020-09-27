@@ -12,5 +12,6 @@ int main()
     cout<<"\nhello\n";
     cout<<a+b+c;
     return 0;
+    hom nay an gi v
 }
 
