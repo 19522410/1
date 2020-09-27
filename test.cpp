@@ -6,9 +6,14 @@ int main()
 {
     int a = 0;
     cout<<"hello";
-    return 0;
+    
     int c= 9;
     cout<<c+a;
+    
+    cout<<"hom nay an gi";
+    int b;
+    
     return 0;
+
 }
 
